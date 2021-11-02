@@ -28,6 +28,12 @@ import org.apache.lucene.search.TermQuery;
 import org.apache.lucene.store.RAMDirectory;
 import org.junit.Test;
 
+/**
+ * Can I push to my fork?
+ * 
+ * @author claud
+ *
+ */
 public class LuceneAnalyzerIntegrationTest {
 
     private static final String SAMPLE_TEXT = "This is baeldung.com Lucene Analyzers test";
